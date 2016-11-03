@@ -1,7 +1,7 @@
 body {
     width: 320px;
 }
-div {
+.box {
     margin: 20px;
     border: 2px solid #ff6600;
 }
@@ -21,4 +21,7 @@ a{
 a:hover {
     color: crimson;
     background-color: black;
+}
+.one {
+    margin-bottom: 30px;
 }
